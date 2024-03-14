@@ -16,19 +16,48 @@ AtliQ Hardware is a fast growing electronics company having its operations in va
 * Project charter  file
 
 ### Power BI Techniques Learned
-Connecting to data sources
-Cleaning and transforming data using power query
-Creating date table in power query
-Data modelling - snowflake schema
-Creating calculated columns
-Merging and appending tables in power query
-Creating dax measures
-Page Navigation and bookmarks
-Data validation techniques
-Creating Visualizations
-Publishing to Power BI services
-Setting up personal gateway to setup auto refresh of data
-Collaboration, workspaces, access permissions, creating apps 
+* Connecting to data sources
+* Cleaning and transforming data using power query
+* Creating date table in power query
+* Data modelling - snowflake schema
+* Creating calculated columns
+* Merging and appending tables in power query
+* Creating dax measures
+* Page Navigation and bookmarks
+* Data validation techniques
+* Creating Visualizations
+* Creating tool tips
+* Publishing to Power BI services
+* Setting up personal gateway to setup auto refresh of data
+* Collaboration, workspaces, access permissions, creating apps
+
+### Domain knowledge
+* Gross Sales
+* Gross Profit
+* Net Sales
+* Net Profit
+* Pre invoice deductions
+* Post invoice deductions
+* Gross Margin
+* Forecast Quantity
+* Cost of goods sold
+* Fiscal Year
+* Year to date
+* Year to go
+* Forecast Quantity
+* Forecast accuracy
+* Freight costs
+
+ ### Objective
+Finance View - Created profit & loss statement to understand financial performance across markets, products customers etc.
+Sales View - Created top/bottom customers alongwith key metrics.
+Marketing View - Created top/bottom products along with key metrics.
+Supply Chain - Created Reliability, Forecast Accuracy in a view to understand supply chain performance.
+Executive View - Developed an Integrated view of key insights for executives
+
+
+
+
 
 
 
