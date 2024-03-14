@@ -49,11 +49,11 @@ AtliQ Hardware is a fast growing electronics company having its operations in va
 * Freight costs
 
  ### Objective
-Finance View - Created profit & loss statement to understand financial performance across markets, products customers etc.
-Sales View - Created top/bottom customers alongwith key metrics.
-Marketing View - Created top/bottom products along with key metrics.
-Supply Chain - Created Reliability, Forecast Accuracy in a view to understand supply chain performance.
-Executive View - Developed an Integrated view of key insights for executives
+* Finance View - Created profit & loss statement to understand financial performance across markets, products customers etc.
+* Sales View - Created top/bottom customers alongwith key metrics.
+* Marketing View - Created top/bottom products along with key metrics.
+* Supply Chain - Created Reliability, Forecast Accuracy in a view to understand supply chain performance.
+* Executive View - Developed an Integrated view of key insights for executives
 
 
 
