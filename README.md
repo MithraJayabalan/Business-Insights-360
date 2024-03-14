@@ -1,3 +1,5 @@
+Link to Dashboard:<iframe title="Business Insights 360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWFmMDlkZWYtMTVlMC00M2YwLWIwMmMtYzBkY2FhZjI0ODM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 # Business-Insights-360
  I'm really excited to talk about what I've learned in my Power BI project with codebasics. This experience has been incredibly enriching, allowing me to grasp numerous new concepts while thoroughly enjoying the process. In essence, Power BI can be likened to an enhanced version of Excel, offering unparalleled capabilities. When handling vast datasets, Power BI excels in comparison to Excel, providing a smoother and quicker dashboard creation experience.This project seeks to shed light on diverse facets such as financial operations, sales strategies, marketing initiatives, and supply chain management.
 
